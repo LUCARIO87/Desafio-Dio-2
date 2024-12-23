@@ -28,6 +28,6 @@ class heroi {
     }
 }
     
-const heroi1 = new heroi('Tavares', 30, 'guerreiro'); 
+const heroi1 = new heroi('Tavares', 30, 'mago'); 
 heroi1.atacar();
 
